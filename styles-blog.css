@@ -1,0 +1,110 @@
+body{
+    background-color:#ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.second{
+    background-image: url(imgs/card-img-ten.jpeg);
+    margin-bottom: 1em;
+    background-blend-mode: soft-light;
+    background-size: 100%;
+    background-position: top;
+    background-repeat: no-repeat; 
+}
+.heading{
+    text-align: left;
+    margin: 2%;
+    margin-top: 4em;
+}
+#content{
+    overflow: auto;
+
+}
+.header{
+    background-color: #222831;
+}
+.header li{
+    display: inline;
+    padding: 10px;
+}
+.header> h1{
+    color: #ffffff;
+}
+.diagram-1{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    -moz-border-radius: 10px
+    -webkit-border-radius: 10px;
+}
+.sub ul, ol{
+    text-align: left;
+    font-size: 20px;
+}
+ p, a{
+    color: #ffffff;
+}
+.anchor{
+    color: #3a0088;
+}
+.main-paragraph{
+    color: #000000;
+    font-size: 18px;
+}
+
+.mainli{
+    display: inline;
+}
+.copyright{
+    color: #000000;
+    font-size: 15px;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    color: #930077;
+}
+h3{
+    font-size: 22px;
+    color: #000000;
+    padding: 20px;
+    margin-top: 3em;
+}
+button{
+    background-color: #3a0088;
+    font-size: 18px;
+    border-radius: 100px;
+    -moz-border-radius: 100px
+    -webkit-border-radius: 100px;
+}
+
+textarea{
+    width: 100%;
+    height: 100%;
+    border: none;
+    font-size: 20px;
+}
+input{
+    background-color: #3a0088;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 18px;
+    color: #ffffff;
+    width: 100%;
+}
+
+.form-content p{
+    color: #222831;
+}
+
+.form-content{
+     background-color: #769fcd;
+     width: 300px;
+     padding: 10px;
+     margin-top: 10px;
+     margin-bottom: 25px;
+     border-radius: 10px;
+    -moz-border-radius: 10px
+    -webkit-border-radius: 10px;
+}

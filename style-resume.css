@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans&display=swap');
+.headings-3{
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 18px;
+    padding: 22px;
+    margin-bottom: 1em;
+    color:  #0000ff;
+    line-height: 1.4em;
+}
+
+.headings-4{
+    padding: 16px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 18px;
+    margin-bottom: 1em;
+    color:  #0000ff;
+    line-height: 1.4em;
+}
+
+p{
+    text-align: center;
+}
+hr{
+    border:5px solid #0000ff;
+    margin: 1%;
+    border-radius: 10px;
+    -moz-border-radius: 10px
+    -webkit-border-radius: 10px;
+    margin-top: 10px;
+}
+
+img{
+    width: 100%;
+    margin-top: 1em;
+    border-radius: 10px;
+    -moz-border-radius: 10px
+    -webkit-border-radius: 10px;
+}
+
+#profile-image{
+    width: 300px;
+}
+
+body{
+    background-color: #ffffff;
+    font-family: 'PT Sans', sans-serif;
+}
+div{
+    margin:0 auto;
+    margin-bottom: 1em;
+    background-color: #ffffff;
+    padding:0px;
+    border-radius: 10px;
+    -moz-border-radius: 10px
+    -webkit-border-radius: 10px;
+    margin-top: 10px;
+}
+.headings{
+          color: #0000ff;
+          text-align: center;
+          font-size: 22;
+          font-weight: bold;
+          margin: 1%;
+}
+.headings-01{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-top: 1.5em;
+}
+.paragraphs{
+            text-align: left;
+            font-size: 18px;
+            font-weight: bolder;
+            padding: 10px;
+}  
+h3{
+    font-size: 18px;
+    padding: 0px;
+    color: #000000;
+    font-weight: bold;
+}
+.summary{
+    font-size: 20px;
+    margin: 2%;
+    text-align: left;
+}
+a:link{
+    text-decoration: none;
+}
+.skills-div, .exp-div, .ed-div, .qual-div, .ref-div, .copy-div{
+    border-top: 1px dotted #0000ff;
+}
+.footer{
+    font-size: 13px;
+}
